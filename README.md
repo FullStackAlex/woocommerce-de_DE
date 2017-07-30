@@ -4,7 +4,7 @@ German WooCommerce plugin translation files (Du-Form)
 
 WooCommerce Version 3.1.1
 
-Include this files into "wp-content/languages/plugins"
+Include these files into "wp-content/languages/plugins"
 
 
 Official source for all WooCommerce supported languages (i just couldn't find the German formal version here, but at least you can download the standard version):
